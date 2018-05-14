@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FirstWifiScan</string>
+    <string name="btn_start">Start</string>
+    <string name="btn_stop">Stop</string>
+    <string name="item_save_flag">Save Flag</string>
+    <string name="item_scan_freq">Scan Frequency</string>
+    <string name="btn_dlg_first_title">Set Save File Flag</string>
+    <string name="btn_dlg_scan_frequency">Set WiFi Scan Frequency</string>
+    <string name="btn_dlg_confirm">Confirm</string>
+    <string name="btn_dlg_cancel">Cancel</string>
+    <string name="save_file_ok">Save File Success</string>
+    <string name="save_file_error">Save File Failure</string>
+    <string-array name="mulck_save_flag">
+        <item>Save</item>
+        <item>Not Save</item>
+    </string-array>
+</resources>

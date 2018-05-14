@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wi-Fi扫描示例</string>
+    <string name="btn_start">开始</string>
+    <string name="btn_stop">停止</string>
+    <string name="item_save_flag">保存文件标识</string>
+    <string name="item_scan_freq">扫描频率</string>
+    <string name="btn_dlg_first_title">设置保存文件标识</string>
+    <string name="btn_dlg_scan_frequency">设置扫描频率</string>
+    <string name="btn_dlg_confirm">确定</string>
+    <string name="btn_dlg_cancel">取消</string>
+    <string name="save_file_ok">保存文件成功</string>
+    <string name="save_file_error">保存文件失败</string>
+    <string-array name="mulck_save_flag">
+        <item>保存</item>
+        <item>不保存</item>
+    </string-array>
+</resources>
